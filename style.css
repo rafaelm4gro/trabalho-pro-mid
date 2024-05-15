@@ -1,0 +1,8 @@
+body{text-align: center;
+}
+#img1{width: 18%;}
+#img1{border-color: black;
+       border-width: 10px;
+       border-style: double;} 
+.parte01{background-color: red;} 
+.parte03{background-color: black;}     
